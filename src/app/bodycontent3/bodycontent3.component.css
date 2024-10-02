@@ -1,0 +1,10 @@
+.nav-link:hover{
+    border-bottom:6px solid orange;
+
+}
+
+.nav-item.nav-link{
+    
+    position: relative;
+    transition: all 0.01s ease-in-out;
+}

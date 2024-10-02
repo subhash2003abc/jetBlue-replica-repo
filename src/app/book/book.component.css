@@ -1,0 +1,26 @@
+.navbar-nav .nav-link {
+    color: white !important;
+  }
+
+  .dropdown-menu {
+    border: none;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .dropdown-menu a {
+    color: #333 !important;
+    padding: 10px 20px;
+    text-align: center;
+  }
+
+  .dropdown-menu a:hover {
+    background-color: #f1f1f1;
+  }
+
+  .navbar-brand img {
+    max-height: 50px;
+  }
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.9);
+  }

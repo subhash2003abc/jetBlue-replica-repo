@@ -1,0 +1,11 @@
+.offer-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+.offer-image {
+    background-image: url('https://www.jetblue.com/magnoliapublic/dam/ui-assets/promos/NFL-Season-Kickoff-Merch---AUG-2024---orange.jpg?width=1120');
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    border-radius: 10px;
+}

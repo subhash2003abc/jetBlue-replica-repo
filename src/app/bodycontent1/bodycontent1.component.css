@@ -1,0 +1,44 @@
+ 
+.search-bar {
+    background-color: white;
+    border-radius: 10px;
+    padding: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+   margin-top: 20px;
+   width: 900px;
+   margin-bottom:20px;
+} 
+
+
+.background{
+    background-image: url('src/assets/bgi.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#heading {
+    font-size: 7rem;
+    margin:60px 20px; 
+}
+
+select{
+    border:none;
+}
+
+option{
+    border:none;
+}
+
+#navbarnav {
+    padding-bottom: 8px;
+    position: relative;
+    transition: all 0.01s ease-in-out; 
+}
+
+.nav-link:hover{
+border-bottom:5px solid orange;
+}
+
